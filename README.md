@@ -1,5 +1,5 @@
-##Landing page  
-]
+#Landing page  
+
 
 Neste teste utilizei HTML, CSS e JavaScript para desenvolver as duas partes da landing page.
 Usei o ChatGPT como ferramenta de apoio para acelerar o desenvolvimento, principalmente na estrutura inicial do código e na resolução de bugs.
