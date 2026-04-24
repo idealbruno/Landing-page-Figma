@@ -1,4 +1,4 @@
-#Landing page  
+<h1 align="center"> landing page </h1>
 
 
 Neste teste utilizei HTML, CSS e JavaScript para desenvolver as duas partes da landing page.
