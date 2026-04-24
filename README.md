@@ -11,3 +11,6 @@ Na Parte 2, utilizei a IA como base de ideias, mas desenvolvi o layout final com
 O código foi organizado de forma simples para facilitar leitura e manutenção.
 Busquei seguir boas práticas de HTML semântico e estruturação de CSS.
 O resultado final representa minha capacidade de desenvolvimento front-end com apoio de IA.
+
+
+https://idealbruno.github.io/Landing-page-Figma/
